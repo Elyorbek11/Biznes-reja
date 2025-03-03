@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ota1{
+    max-width: 1300px;
+    height: 400vh;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+
+}
+
+nav {
+    width: 1300px;
+    height: 56px;
+    /* border: 1px solid red; */
+    /* background-color: #d8fdfb; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    padding: 0 100px;
+    box-shadow: 0px 0px 8px black;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+}
+.hhh{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(20, 211, 218);
+    border-radius: 8px;
+    color: #d8fdfb;
+    border: none;
+}
+.box a{
+    text-decoration: none;
+    color: black;
+}
+.ota2{
+    width: 1100px;
+    height: 250px;
+    display: flex;
+    position: absolute;
+    top: 150px;
+    left: 270px;
+}
+.title{
+    width: 400px;
+    height: 250px;
+}
+button{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(80, 83, 255);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+}
+.ggg{
+    width: 350px;
+    height: 250px;
+}
+.ota3{
+    text-align: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 500px;
+    left: 270px;
+}
+.quti{
+    width: 754px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+.quti img{
+    width: 150px;
+    height: 150px;
+}
+.qutilar{
+    display: flex;
+}
+.btn{
+    width: 250px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.jjj{
+    text-align: center;
+    position: absolute;
+    right: 550px;
+}
+.ota4{
+    text-align: center;
+    position: absolute;
+    top: 1100px;
+
+}
+.stylesheet{
+    width: 300px;
+    height: 210px;
+    border-radius: 50%;
+}
+.totl{
+    width: 500px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 400px;
+}
+.ota5{
+    width: 700px;
+    height: 300px;  
+    display: flex;
+    position: absolute;
+    top: 1550px;
+    left: 400px;
+}
+.lll{
+    width: 300px;
+    height: 210px;
+}
+.ota6{
+    width: 700px;
+    height: 250px;
+    display: flex;
+    position: absolute;
+    top: 1800px;
+    left: 400px;
+}
+.btton{
+    width: 500px;
+    height: 50px;
+    background-color: rgb(77, 123, 250);
+    position: absolute;
+    top: 2300px;
+    left: 450px;
+}
